@@ -1,2 +1,2 @@
 # cats
-An AI that generates images of cats! This repository contains my scripts for training a diffusion/score-based generative model on images of cats, as well as a couple notebooks demonstrating a simple technique to "animorph" photos of humans into cats.
+An AI that generates images of cats! This repository contains my scripts for training a diffusion/score-based generative model on images of cats, as well as a couple notebooks demonstrating a simple technique to "**animorph**" photos of humans into cats. The dataset I use can be downloaded from [here](https://www.microsoft.com/en-us/download/details.aspx?id=54765), although you will need to remove some images from this dataset since not all of them have the same number of color channels.
